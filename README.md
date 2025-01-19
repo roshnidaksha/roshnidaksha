@@ -1,5 +1,5 @@
 <div align="left">
-  <h2>Hello! I'm Roshni Daksha</h2>
+  <h2>Hello! I'm Roshni Daksha Govindaraj</h2>
   <p>✨ Computer Engineering Student at NUS ✨</p>
   <p>🚀 Passionate about building impactful projects and exploring AI/ML 🌟</p>
 </div>
