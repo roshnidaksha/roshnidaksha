@@ -6,7 +6,7 @@
 
 <div align="left">
   <h2>🚀 About Me</h2>
-  <p>🎓 Year 2 Computer Engineering undergraduate at <a href="https://www.nus.edu.sg/">National University of Singapore</a></p>
+  <p>🎓 Year 3 Computer Engineering undergraduate at <a href="https://www.nus.edu.sg/">National University of Singapore</a></p>
   <p>🖥️ I am interested in <b>Software Development</b> and <b>Data Engineering</b></p>
   <p>🌱 Currently diving into <b>machine learning</b>, <b>AI</b>, and <b>sustainable</b> tech solutions</p>
 
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
 
   <h3>Backend Development</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -39,6 +41,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCB2F?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   
   <h3>DevOps and Tools</h3>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -46,7 +49,7 @@
 
   <h3>Other Tools</h3>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </div>
 
 <div align="left"> 
